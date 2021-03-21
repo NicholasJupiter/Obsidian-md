@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "81aef0bfa4569747",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a3dee03257730b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mysql/MySQL 体系结构预览.md",
+            "mode": "source"
+          }
+        },
+        "group": "533253e6f0f8e027"
+      },
+      {
+        "id": "0bc4a60210883493",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mysql/MySQL 体系结构预览.md",
+            "mode": "preview"
+          }
+        },
+        "group": "533253e6f0f8e027"
+      },
+      {
+        "id": "3b3a6a97bc475e7a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "mysql/MySQL 体系结构预览.md"
+          }
+        },
+        "group": "533253e6f0f8e027"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "917b76b99cd6f753",
+    "type": "split",
+    "children": [
+      {
+        "id": "099cd7f62bbd72fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fdc66746da97c5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b40133743d8bd817",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46fa5efc6179fab2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "2a7ac9a7fdd69120",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef9a248f659bf554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b57a9b4fc536260",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mysql/MySQL 体系结构预览.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "61f008cdd0e2b26c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mysql/MySQL 体系结构预览.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 163,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "mysql/MySQL 体系结构预览.md",
+    "mysql/Untitled.md",
+    "Angular.md",
+    "mysql/MySQL 触发器.md",
+    "mysql/MySQL存储过程和函数.md",
+    "mysql/MySQL索引.md",
+    "mysql/MySQL用户.md",
+    "mysql/MySQL安装.md",
+    "mysql/Mysql.md",
+    "mysql/assets/Pasted image 20210228150741.png"
+  ]
+}
