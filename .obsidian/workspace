@@ -4,40 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "82a3dee03257730b",
+        "id": "2975e458aecd4de4",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mysql/MySQL 体系结构预览.md",
+            "file": "IIS/IIS 配置代理.md",
             "mode": "source"
           }
-        },
-        "group": "533253e6f0f8e027"
+        }
       },
       {
-        "id": "0bc4a60210883493",
+        "id": "b2975650883ddee0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mysql/MySQL 体系结构预览.md",
+            "file": "IIS/IIS 配置代理.md",
             "mode": "preview"
           }
-        },
-        "group": "533253e6f0f8e027"
-      },
-      {
-        "id": "3b3a6a97bc475e7a",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "mysql/MySQL 体系结构预览.md"
-          }
-        },
-        "group": "533253e6f0f8e027"
+        }
       }
     ],
     "direction": "vertical"
@@ -101,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql/MySQL 体系结构预览.md",
+                "file": "IIS/IIS 配置代理.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql/MySQL 体系结构预览.md"
+                "file": "IIS/IIS 配置代理.md"
               }
             }
           }
@@ -129,15 +116,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "mysql/MySQL 体系结构预览.md",
-    "mysql/Untitled.md",
-    "Angular.md",
-    "mysql/MySQL 触发器.md",
+    "IIS/IIS 配置代理.md",
+    "IIS 配置代理.md",
+    "mysql/assets/Pasted image 20210403145828.png",
+    "Untitled.md",
+    "Lottie.md",
+    "mysql/SQL 优化.md",
     "mysql/MySQL存储过程和函数.md",
-    "mysql/MySQL索引.md",
-    "mysql/MySQL用户.md",
-    "mysql/MySQL安装.md",
-    "mysql/Mysql.md",
-    "mysql/assets/Pasted image 20210228150741.png"
+    "mysql/Untitled.md",
+    "mysql/MySQL 体系结构预览.md",
+    "mysql/Mysql.md"
   ]
 }
